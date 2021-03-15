@@ -148,8 +148,8 @@ class Details extends React.Component {
         */
         this.getData({
             amount: 500,
-            email: 'abhishek_saini@live.com',
-            mobileNo: '9986851333'
+            email: 'arjunaviru@gmail.com',
+            mobileNo: '9585638232'
         }).then(response => {
             var information = {
                 action: "https://securegw-stage.paytm.in/order/process",
